@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryWorm", "StoryWorm\StoryWorm.csproj", "{42F7E701-F4EE-4B0F-A99E-C3170C5C5511}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryWorm", "StoryWorm\StoryWorm.csproj", "{5CEF0A53-18E7-4330-9CCC-70A8DFB1BB3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{42F7E701-F4EE-4B0F-A99E-C3170C5C5511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42F7E701-F4EE-4B0F-A99E-C3170C5C5511}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42F7E701-F4EE-4B0F-A99E-C3170C5C5511}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42F7E701-F4EE-4B0F-A99E-C3170C5C5511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEF0A53-18E7-4330-9CCC-70A8DFB1BB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEF0A53-18E7-4330-9CCC-70A8DFB1BB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEF0A53-18E7-4330-9CCC-70A8DFB1BB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEF0A53-18E7-4330-9CCC-70A8DFB1BB3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

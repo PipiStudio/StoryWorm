@@ -24,5 +24,5 @@ build_property.EnableCodeStyleSeverity =
 [/home/aaronhu/Dev/StoryWorm/StoryWorm/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/aaronhu/Dev/StoryWorm/StoryWorm/MainWindow.axaml]
+[/home/aaronhu/Dev/StoryWorm/StoryWorm/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

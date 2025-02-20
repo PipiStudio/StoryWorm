@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace StoryWorm;
+namespace StoryWorm.Views;
 
 public partial class MainWindow : Window
 {
